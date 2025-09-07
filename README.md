@@ -2,6 +2,8 @@
 
 A web application built with Streamlit and TensorFlow that generates high-resolution satellite imagery from two low-resolution Sentinel-2 captures using a deep learning model. The app leverages Google Earth Engine to fetch satellite data in real-time.
 
+![Uploading image.png…]()
+
 ---
 
 ## 📋 Table of Contents
