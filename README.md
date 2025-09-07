@@ -131,15 +131,12 @@ The application workflow is as follows:
 ## 📂 Project Structure
 
 SuperResolutionApp/
-│
 ├── models/
-│   └── sr_generator_compatible.h5    # Pre-trained Keras model
-│
+│   └── sr_generator_compatible.h5  # Pre-trained Keras model
 ├── src/
 │   ├── __init__.py
-│   ├── ee_pipeline.py                # Functions for Google Earth Engine API
-│   └── utils.py                      # Helper functions (image conversion, etc.)
-│
-├── app.py                            # Main Streamlit application script
-├── requirements.txt                  # Python dependencies
-└── README.md                         # This file
+│   ├── ee_pipeline.py              # Functions for Google Earth Engine API
+│   ├── utils.py                    # Helper functions (image conversion, etc.)
+│   └── app.py                      # Main Streamlit application script
+├── requirements.txt                # Python dependencies
+└── README.md                       # Project documentation
