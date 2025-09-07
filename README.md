@@ -129,7 +129,7 @@ The application workflow is as follows:
 ---
 
 ## 📂 Project Structure
-
+---
 SuperResolutionApp/
 ├── models/
 │   └── sr_generator_compatible.h5  # Pre-trained Keras model
@@ -140,3 +140,4 @@ SuperResolutionApp/
 │   └── app.py                      # Main Streamlit application script
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project documentation
+---
