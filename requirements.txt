@@ -1,0 +1,10 @@
+streamlit
+tensorflow>=2.12.0,<2.17.0
+keras>=2.12.0
+earthengine-api
+folium
+streamlit-folium
+Pillow
+numpy
+geopy
+requests
